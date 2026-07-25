@@ -235,6 +235,8 @@ This project was built as part of my Deep Learning learning journey to better un
 <br>
 
 ## Inferencing Demo
+---
+
 
 
 
